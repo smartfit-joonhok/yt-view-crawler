@@ -82,7 +82,6 @@ URLS=(
     "https://www.youtube.com/channel/UCrDV505ODSUP-JCs7k8DMQA/videos"
     "https://www.youtube.com/channel/UC-j8Op7fKBwFDkvYeF7TVSA/videos"
     "https://www.youtube.com/channel/UCQklPaF5VivnquemfsS2MLQ/videos"
-    "https://www.youtube.com/channel/UCKmEDAD5k5KFMcY5wvGIeGQ/videos"
 )
 MATCH_KEYWORDS=(
 	"챌린지"
